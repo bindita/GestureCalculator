@@ -1,4 +1,4 @@
-# GestureCalc: An Eyes-Free Calculator for Touch Screens [[Main Paper]](https://homes.cs.washington.edu/~bindita/papers/gesturecalc_assets19.pdf), [[Demo Paper]](https://homes.cs.washington.edu/~bindita/papers/gesturecalc_assets19_demo.pdf)
+# GestureCalc: An Eyes-Free Calculator for Touch Screens [[Main Paper]](https://homes.cs.washington.edu/~bindita/papers/gesturecalc_assets19.pdf) [[Demo Paper]](https://homes.cs.washington.edu/~bindita/papers/gesturecalc_assets19_demo.pdf)
 
 
 [Bindita Chaudhuri](https://homes.cs.washington.edu/~bindita/), [Leah Perlmutter](https://homes.cs.washington.edu/~lrperlmu/), Justin Petelka, [Philip Garrison](https://philipgarrison.com/), [James Fogarty](https://homes.cs.washington.edu/~jfogarty/), [Jacob Wobbrock](https://faculty.washington.edu/wobbrock/) and [Richard Ladner](https://www.cs.washington.edu/people/faculty/ladner)
@@ -40,6 +40,6 @@ If you use this work for your research, please consider citing:
  booktitle = {Proceedings of the 21st International ACM SIGACCESS Conference on Computers and Accessibility},
  series = {ASSETS '19},
  year = {2019},
- location = {Pittsburg, PA, USA}
+ location = {Pittsburgh, PA, USA}
 }
 ```
