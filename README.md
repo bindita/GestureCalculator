@@ -34,12 +34,19 @@ The app is now installed and usable as a regular App Store app. The expiry date 
 ### Citation
 If you use this work for your research, please consider citing:
 ```
-@inproceedings{gesturecalc,
+@inproceedings{Chaudhuri:2019:3308561.3353783,
  author = {Chaudhuri, Bindita and Perlmutter, Leah and Petelka, Justin and Garrison, Philip and Fogarty, James and Wobbrock, Jacob O. and Ladner, Richard E.},
  title = {GestureCalc: An Eyes-Free Calculator for Touch Screens},
  booktitle = {Proceedings of the 21st International ACM SIGACCESS Conference on Computers and Accessibility},
  series = {ASSETS '19},
  year = {2019},
- location = {Pittsburgh, PA, USA}
+ isbn = {978-1-4503-6676-2/19/10},
+ location = {Pittsburgh, PA, USA},
+ url = {http://doi.acm.org/10.1145/3308561.3353783},
+ doi = {10.1145/3308561.3353783},
+ acmid = {3353783},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Eyes-free entry; gesture input; digital calculator; touch screen; mobile devices},
 }
 ```
